@@ -1,0 +1,33 @@
+#co1{
+    left: -60px; 
+    margin-right: -15px;
+    text-align: center;
+}
+
+#co2{
+    left: 3%;
+}
+
+#co3{
+    right: -60px; 
+    margin-left: -35px;
+    text-align: center;
+}
+
+#phone{
+    width: 24%;
+    margin-bottom: -44.3%;
+}
+
+#label1{
+    color: #4267a8;
+    font-size: 55px;
+    font-weight: bold;
+    margin-right: 1%;
+}
+
+#label2{
+    color: #9e3b90;
+    font-size: 55px;
+    font-weight: bold;
+}

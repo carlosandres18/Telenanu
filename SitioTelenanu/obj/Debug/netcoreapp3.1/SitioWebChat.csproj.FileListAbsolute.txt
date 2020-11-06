@@ -1,0 +1,84 @@
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\bin\Debug\netcoreapp3.1\SitioWebChat.exe
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\bin\Debug\netcoreapp3.1\SitioWebChat.deps.json
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\bin\Debug\netcoreapp3.1\SitioWebChat.runtimeconfig.json
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\bin\Debug\netcoreapp3.1\SitioWebChat.runtimeconfig.dev.json
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\bin\Debug\netcoreapp3.1\SitioWebChat.dll
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\bin\Debug\netcoreapp3.1\SitioWebChat.pdb
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\bin\Debug\netcoreapp3.1\SitioWebChat.Views.dll
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\bin\Debug\netcoreapp3.1\SitioWebChat.Views.pdb
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\bin\Debug\netcoreapp3.1\Microsoft.Bot.Connector.DirectLine.dll
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\obj\Debug\netcoreapp3.1\SitioWebChat.csprojAssemblyReference.cache
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\obj\Debug\netcoreapp3.1\SitioWebChat.AssemblyInfoInputs.cache
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\obj\Debug\netcoreapp3.1\SitioWebChat.AssemblyInfo.cs
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\obj\Debug\netcoreapp3.1\SitioWebChat.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\obj\Debug\netcoreapp3.1\SitioWebChat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\obj\Debug\netcoreapp3.1\SitioWebChat.RazorAssemblyInfo.cache
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\obj\Debug\netcoreapp3.1\SitioWebChat.RazorAssemblyInfo.cs
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\obj\Debug\netcoreapp3.1\SitioWebChat.TagHelpers.input.cache
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\obj\Debug\netcoreapp3.1\SitioWebChat.TagHelpers.output.cache
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\obj\Debug\netcoreapp3.1\SitioWebChat.RazorCoreGenerate.cache
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\obj\Debug\netcoreapp3.1\SitioWebChat.RazorTargetAssemblyInfo.cache
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\obj\Debug\netcoreapp3.1\SitioWebChat.RazorTargetAssemblyInfo.cs
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\obj\Debug\netcoreapp3.1\SitioWebChat.Views.pdb
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\obj\Debug\netcoreapp3.1\SitioWebChat.csproj.CopyComplete
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\obj\Debug\netcoreapp3.1\staticwebassets\SitioWebChat.StaticWebAssets.Manifest.cache
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\obj\Debug\netcoreapp3.1\staticwebassets\SitioWebChat.StaticWebAssets.xml
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\obj\Debug\netcoreapp3.1\SitioWebChat.dll
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\obj\Debug\netcoreapp3.1\SitioWebChat.pdb
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\obj\Debug\netcoreapp3.1\SitioWebChat.genruntimeconfig.cache
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\obj\Debug\netcoreapp3.1\Razor\Views\Home\Chatbot.cshtml.g.cs
+C:\Users\Carlos Andres\Downloads\SitioTelenanu\obj\Debug\netcoreapp3.1\Razor\Views\Home\Datos.cshtml.g.cs
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\bin\Debug\netcoreapp3.1\SitioWebChat.exe
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\bin\Debug\netcoreapp3.1\SitioWebChat.deps.json
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\bin\Debug\netcoreapp3.1\SitioWebChat.runtimeconfig.json
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\bin\Debug\netcoreapp3.1\SitioWebChat.runtimeconfig.dev.json
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\bin\Debug\netcoreapp3.1\SitioWebChat.dll
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\bin\Debug\netcoreapp3.1\SitioWebChat.pdb
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\bin\Debug\netcoreapp3.1\SitioWebChat.Views.dll
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\bin\Debug\netcoreapp3.1\SitioWebChat.Views.pdb
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\bin\Debug\netcoreapp3.1\Microsoft.Bot.Connector.DirectLine.dll
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\obj\Debug\netcoreapp3.1\SitioWebChat.csprojAssemblyReference.cache
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\obj\Debug\netcoreapp3.1\SitioWebChat.AssemblyInfoInputs.cache
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\obj\Debug\netcoreapp3.1\SitioWebChat.AssemblyInfo.cs
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\obj\Debug\netcoreapp3.1\SitioWebChat.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\obj\Debug\netcoreapp3.1\SitioWebChat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\obj\Debug\netcoreapp3.1\SitioWebChat.RazorAssemblyInfo.cache
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\obj\Debug\netcoreapp3.1\SitioWebChat.RazorAssemblyInfo.cs
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\obj\Debug\netcoreapp3.1\SitioWebChat.TagHelpers.input.cache
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\obj\Debug\netcoreapp3.1\SitioWebChat.TagHelpers.output.cache
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\obj\Debug\netcoreapp3.1\SitioWebChat.RazorCoreGenerate.cache
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\obj\Debug\netcoreapp3.1\Razor\Views\Home\Chatbot.cshtml.g.cs
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\obj\Debug\netcoreapp3.1\Razor\Views\Home\Datos.cshtml.g.cs
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\obj\Debug\netcoreapp3.1\SitioWebChat.RazorTargetAssemblyInfo.cache
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\obj\Debug\netcoreapp3.1\SitioWebChat.RazorTargetAssemblyInfo.cs
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\obj\Debug\netcoreapp3.1\SitioWebChat.Views.pdb
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\obj\Debug\netcoreapp3.1\SitioWebChat.csproj.CopyComplete
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\obj\Debug\netcoreapp3.1\staticwebassets\SitioWebChat.StaticWebAssets.Manifest.cache
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\obj\Debug\netcoreapp3.1\staticwebassets\SitioWebChat.StaticWebAssets.xml
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\obj\Debug\netcoreapp3.1\SitioWebChat.dll
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\obj\Debug\netcoreapp3.1\SitioWebChat.pdb
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\obj\Debug\netcoreapp3.1\SitioWebChat.genruntimeconfig.cache
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\obj\Debug\netcoreapp3.1\Razor\Views\Home\Preguntas.cshtml.g.cs
+C:\Users\Carlos Andres\Desktop\Universidad\Proyectos generales\Telenanu\SitioTelenanu\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contacto.cshtml.g.cs

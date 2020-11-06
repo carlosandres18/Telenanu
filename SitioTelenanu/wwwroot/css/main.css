@@ -1,0 +1,42 @@
+.estilo1{
+    background: url(../img/graficos/grafico_01.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.estilo2{
+    background: url(../img/graficos/grafico_02.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.select{
+    color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding-top: 5.5px;
+    padding-bottom: 5.5px;
+}
+
+.normal{
+    color: white;
+}
+
+a:hover{
+    color: black;
+    border-color: black;
+}
+
+#foot1{
+    width: 100%;
+    margin-bottom: -11%;
+}
+
+#foot2{
+    text-align: center;
+}
+
+#legal {
+    color: white;
+    margin-top: 0.5%;
+}

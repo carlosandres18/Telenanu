@@ -1,0 +1,121 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title id="nombre">@ViewData["Title"]</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/css/main.css">
+</head>
+
+<body id="cuerpo" class="estilo1">
+
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <img src="~/img/logos/logo_01.png" height="45%" style="margin-top: 17px;">
+            </div>
+            <div class="col">
+                <br>
+                <nav class="navbar navbar-expand-lg">
+                    <button class="navbar-toggler" type="button" data-toggle="collapse"
+                        data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false"
+                        aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                        <div class="navbar-nav">
+                            <a id="E1" class="nav-link select" href="~/Home/Index">Conócenos</a>
+                            <a id="E2" class="nav-link normal" href="~/Home/Chatbot">Chatbot</a>
+                            <a id="E3" class="nav-link normal" href="~/Home/Preguntas">Preguntas</a>
+                            <a id="E4" class="nav-link normal" href="#">Administrador</a>
+                            <a id="E5" class="nav-link normal" href="~/Home/Contacto">Contacto</a>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+    <main role="main">
+        @RenderBody()
+    </main>
+
+    <footer>
+        <img id="foot1" src="~/img/graficos/grafico_06.png">
+        <div id="foot2">
+            <img src="~/img/logos/logo_02.png" width="20%"><br>
+            <label id="legal">Copyright &copy; 2020 TeleNanu-USMP.Todos los derechos reservados.</label>
+        </div>
+    </footer>
+
+    @RenderSection("Scripts", required: false)
+
+    <script>
+        var fondo = document.getElementById("cuerpo");
+        var titulo = document.getElementById("nombre").innerHTML;
+
+        var A1 = document.getElementById("E1");
+        var A2 = document.getElementById("E2");
+        var A3 = document.getElementById("E3");
+        var A4 = document.getElementById("E4");
+        var A5 = document.getElementById("E5");
+
+        if (titulo == "Telenanu") {
+            fondo.className = fondo.className.replace(/\bestilo2\b/g, "estilo1");
+
+            A1.className = A1.className.replace(/\bnormal\b/g, "select");
+            A2.className = A2.className.replace(/\bselect\b/g, "normal");
+            A3.className = A3.className.replace(/\bselect\b/g, "normal");
+            A4.className = A4.className.replace(/\bselect\b/g, "normal");
+            A5.className = A5.className.replace(/\bselect\b/g, "normal");
+        } else if (titulo == "Chatbot"){
+            fondo.className = fondo.className.replace(/\bestilo1\b/g, "estilo2");
+
+            A1.className = A1.className.replace(/\bselect\b/g, "normal");
+            A2.className = A2.className.replace(/\bnormal\b/g, "select");
+            A3.className = A3.className.replace(/\bselect\b/g, "normal");
+            A4.className = A4.className.replace(/\bselect\b/g, "normal");
+            A5.className = A5.className.replace(/\bselect\b/g, "normal");
+        } else if (titulo == "Preguntas"){
+            fondo.className = fondo.className.replace(/\bestilo1\b/g, "estilo2");
+
+            A1.className = A1.className.replace(/\bselect\b/g, "normal");
+            A2.className = A2.className.replace(/\bselect\b/g, "normal");
+            A3.className = A3.className.replace(/\bnormal\b/g, "select");
+            A4.className = A4.className.replace(/\bselect\b/g, "normal");
+            A5.className = A5.className.replace(/\bselect\b/g, "normal");
+        } else if (titulo == "Administrador"){
+            fondo.className = fondo.className.replace(/\bestilo1\b/g, "estilo2");
+
+            A1.className = A1.className.replace(/\bselect\b/g, "normal");
+            A2.className = A2.className.replace(/\bselect\b/g, "normal");
+            A3.className = A3.className.replace(/\bselect\b/g, "normal");
+            A4.className = A4.className.replace(/\bnormal\b/g, "select");
+            A5.className = A5.className.replace(/\bselect\b/g, "normal");
+        } else {
+            fondo.className = fondo.className.replace(/\bestilo1\b/g, "estilo2");
+
+            A1.className = A1.className.replace(/\bselect\b/g, "normal");
+            A2.className = A2.className.replace(/\bselect\b/g, "normal");
+            A3.className = A3.className.replace(/\bselect\b/g, "normal");
+            A4.className = A4.className.replace(/\bselect\b/g, "normal");
+            A5.className = A5.className.replace(/\bnormal\b/g, "select");
+        }
+    </script>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+        integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+        integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
+        crossorigin="anonymous"></script>
+
+</body>
+
+</html>

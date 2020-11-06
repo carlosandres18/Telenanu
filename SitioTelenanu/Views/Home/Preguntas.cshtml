@@ -1,0 +1,118 @@
+@{
+ViewData["Title"] = "Preguntas";
+}
+
+<link rel="stylesheet" href="~/css/preguntas.css">
+
+<body>
+
+    <div class="container">
+        <div class="row">
+            <div id="co1" class="col">
+                <label id="label1">Preguntas</label>
+                <label id="label2">Frecuentes</label>
+                <p class="text">Aquí esperamos resolver tus interrogantes más comunes.</p>
+
+                <div class="accordion" id="accordionExample">
+
+                    <div class="card">
+                        <div class="card-header" id="headingOne">
+                            <h2 class="mb-0">
+                                <button class="btn btn-link btn-block text-left titulo" type="button" data-toggle="collapse"
+                                    data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    ¿Qué es TeleNanu?
+                                </button>
+                            </h2>
+                        </div>
+
+                        <div id="collapseOne" class="collapse" aria-labelledby="headingOne"
+                            data-parent="#accordionExample">
+                            <div class="card-body">
+                                <p class="text">
+                                    TeleNanu, es una plataforma virtual de teleconsejeria. Nanu es quien será tu Confidente
+                                y buscará resolver tus dudas en cuanto a salud sexual. Te invitamos a ver el video que
+                                hemos preparado para presentarte a Nanu.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-header" id="headingTwo">
+                            <h2 class="mb-0">
+                                <button class="btn btn-link btn-block text-left collapsed titulo" type="button"
+                                    data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false"
+                                    aria-controls="collapseTwo">
+                                    ¿Qué servicios ofrece?
+                                </button>
+                            </h2>
+                        </div>
+
+                        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
+                            data-parent="#accordionExample">
+                            <div class="card-body">
+                                <p class="text">
+                                    Ofrecemos un servicio online en teleconsejeria en salud sexual y reproductiva dirigido a
+                                    los adolescentes y jóvenes. La información que se te brindará estará respaldada por
+                                    evidencia científica.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-header" id="headingThree">
+                            <h2 class="mb-0">
+                                <button class="btn btn-link btn-block text-left collapsed titulo" type="button"
+                                    data-toggle="collapse" data-target="#collapseThree" aria-expanded="false"
+                                    aria-controls="collapseThree">
+                                    ¿Es gratis?
+                                </button>
+                            </h2>
+                        </div>
+
+                        <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
+                            data-parent="#accordionExample">
+                            <div class="card-body">
+                                <p class="text">
+                                    Si, este servicio de teleconsejería es totalmente gratis.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-header" id="headingFour">
+                            <h2 class="mb-0">
+                                <button class="btn btn-link btn-block text-left collapsed titulo" type="button"
+                                    data-toggle="collapse" data-target="#collapseFour" aria-expanded="false"
+                                    aria-controls="collapseFour">
+                                    ¿Las consultas son confidenciales?
+                                </button>
+                            </h2>
+                        </div>
+
+                        <div id="collapseFour" class="collapse" aria-labelledby="headingFour"
+                            data-parent="#accordionExample">
+                            <div class="card-body">
+                                <p class="text">
+                                    Esta plataforma es segura en cuanto a la confidencialidad. Durante la teleconsejerìa tu
+                                    identidad será protegida en todo momento, te animamos a realizar tus consultas con toda
+                                    libertad.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div id="co2" class="col">
+                <img src="~/img/poses/pose_05.png" width="55%">
+            </div>
+        </div>
+    </div>
+
+    <br><br><br>
+
+</body>
