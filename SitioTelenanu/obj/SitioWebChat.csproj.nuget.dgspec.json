@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Carlos Andres\\Desktop\\Universidad\\Proyectos generales\\Telenanu\\SitioTelenanu\\SitioWebChat.csproj": {}
+    "C:\\Users\\Carlos Andres\\Documents\\Visual Studio Code\\GitHub\\Telenanu\\SitioTelenanu\\SitioWebChat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Carlos Andres\\Desktop\\Universidad\\Proyectos generales\\Telenanu\\SitioTelenanu\\SitioWebChat.csproj": {
+    "C:\\Users\\Carlos Andres\\Documents\\Visual Studio Code\\GitHub\\Telenanu\\SitioTelenanu\\SitioWebChat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carlos Andres\\Desktop\\Universidad\\Proyectos generales\\Telenanu\\SitioTelenanu\\SitioWebChat.csproj",
+        "projectUniqueName": "C:\\Users\\Carlos Andres\\Documents\\Visual Studio Code\\GitHub\\Telenanu\\SitioTelenanu\\SitioWebChat.csproj",
         "projectName": "SitioWebChat",
-        "projectPath": "C:\\Users\\Carlos Andres\\Desktop\\Universidad\\Proyectos generales\\Telenanu\\SitioTelenanu\\SitioWebChat.csproj",
+        "projectPath": "C:\\Users\\Carlos Andres\\Documents\\Visual Studio Code\\GitHub\\Telenanu\\SitioTelenanu\\SitioWebChat.csproj",
         "packagesPath": "C:\\Users\\Carlos Andres\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carlos Andres\\Desktop\\Universidad\\Proyectos generales\\Telenanu\\SitioTelenanu\\obj\\",
+        "outputPath": "C:\\Users\\Carlos Andres\\Documents\\Visual Studio Code\\GitHub\\Telenanu\\SitioTelenanu\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

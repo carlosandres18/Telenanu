@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NYSRQlg1SI45TMw2qCIWDXoGy6mWF/KYlbNbXymSBieMVMdfu0hLvSM/2yVQP/wyYRGgQswnzJmaiNFUp5aEsg==",
+  "dgSpecHash": "7NAeeO0Igoa66Y/5V5jM6wZNaLKx4lq77ROenVKQOT0YkKS7w2zG8RmrzBLrr8+8jxgFMO3kg4fhEMbPjyLV1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Carlos Andres\\Desktop\\Universidad\\Proyectos generales\\Telenanu\\SitioTelenanu\\SitioWebChat.csproj",
+  "projectFilePath": "C:\\Users\\Carlos Andres\\Documents\\Visual Studio Code\\GitHub\\Telenanu\\SitioTelenanu\\SitioWebChat.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Carlos Andres\\.nuget\\packages\\microsoft.bot.connector.directline\\3.0.2\\microsoft.bot.connector.directline.3.0.2.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
